@@ -1,0 +1,75 @@
+.background_color
+{
+    background-color: black;
+}
+.nav
+{
+    background-color: red;
+}
+.text
+{
+    color: white;
+}
+.center
+{
+    text-align: center;
+    
+}
+.padding
+{
+    padding-top: 30px;
+}
+.font
+{
+    font-size:36px;
+    padding-left: 20px;
+}
+.font_nav
+{
+    font-size: 20px;
+    
+}
+.size_pic
+{
+    height: 400px;
+}
+.pl
+{
+    padding-left: 200px;
+}
+.feature_pic
+{
+    width: 80%;
+    height: 200px;
+}
+.margin_f_pic
+{
+    margin: 55px;
+}
+.margin_f_pic_border
+{
+    
+}
+.margin_pic
+{
+     margin: 0px;
+}
+.padding-form
+{
+    padding-top: 40px;
+}
+.nav_pl
+{
+    padding-left: 25%;
+    text-align: center;
+    color: white;
+}
+.background
+{
+    /* background-color: darkslategray; */
+}
+.width
+{
+    width: 70%;
+}
+
